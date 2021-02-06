@@ -13,12 +13,12 @@ export const App = () => {
         <div>
           <ul>
             <div className="list-row">
-              <li>たたた</li>
+              <li>あああ</li>
               <button>完了</button>
               <button>削除</button>
             </div>
             <div className="list-row">
-              <li>ちちち</li>
+              <li>いいい</li>
               <button>完了</button>
               <button>削除</button>
             </div>
@@ -30,7 +30,7 @@ export const App = () => {
         <div>
           <ul>
             <div className="list-row">
-              <li>つつつ</li>
+              <li>ううう</li>
               <button>戻す</button>
             </div>
           </ul>
